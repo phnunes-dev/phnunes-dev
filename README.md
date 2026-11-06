@@ -1,61 +1,58 @@
+
 # Pedro Nunes
 
-Pedro Nunes
+**Systems Analysis and Development Student | Technology & Software Development**
 
-Systems Analysis and Development Student | Technology & Software Development
+I'm a Systems Analysis and Development student at Estácio University, based in Rio de Janeiro, Brazil.
 
-I'm a Systems Analysis and Development student.
+My background in military education helped me develop discipline, leadership, teamwork, and problem-solving skills. I'm now focused on building my career in technology through academic studies and personal projects.
 
-I have a background in military education, where I developed skills in leadership, teamwork, discipline, and problem-solving. Today, I'm focused on building my career in technology.
+I'm interested in different areas of IT and enjoy learning new technologies, understanding how systems work, and developing practical solutions.
 
-I enjoy learning how systems work, developing practical solutions, and exploring different areas of IT. Most of my experience comes from personal projects and independent study.
+---
 
-Technical Skills
+## Technical Skills
 
-Languages: Python, SQL, TypeScript
+| Area | Technologies |
+|------|-------------|
+| Programming | Python, SQL, TypeScript |
+| Development | FastAPI, REST APIs, JWT |
+| Databases | SQLite |
+| Data & Automation | Pandas, Data Analysis, AI Integration |
+| Tools | Git, GitHub, VS Code |
 
-Backend Development: FastAPI, REST APIs, JWT Authentication
+Currently expanding my knowledge of cloud computing and software development.
 
-Databases: SQLite
+---
 
-Data & Automation: Pandas, Data Analysis, AI Integration
+## Projects
 
-Tools: Git, GitHub, VS Code
+**[CRUD & JWT](https://github.com/phnunes-dev/crud-jwt)**
 
-I'm also expanding my knowledge of cloud computing and software development practices.
+Python backend project focused on CRUD operations, user authentication, and JWT-based authorization.
 
-Projects
+**[Emergency Dispatch Agent](https://github.com/phnunes-dev/emergency-dispatch-agent-8gbm)**
 
-CRUD & JWT
-https://github.com/phnunes-dev/crud-jwt
+Project exploring the use of language models and environmental data in emergency dispatch operations.
 
-A Python backend project focused on CRUD operations, user authentication, and JWT-based authorization.
+**[Data Optimizer](https://github.com/phnunes-dev/Otimizador-de-Dados)**
 
-Emergency Dispatch Agent
-https://github.com/phnunes-dev/emergency-dispatch-agent-8gbm
+Automation and AI-assisted multimodal data processing.
 
-An emergency dispatch project exploring the use of language models and environmental data to support operational decision-making.
+**[Firefighter Mortality Analysis](https://github.com/phnunes-dev/firefighter-mortality-analysis)**
 
-Data Optimizer
-https://github.com/phnunes-dev/Otimizador-de-Dados
+Exploratory data analysis using Python to investigate firefighter mortality patterns.
 
-A project involving automation and AI-assisted multimodal data processing.
+---
 
-Firefighter Mortality Analysis
-https://github.com/phnunes-dev/firefighter-mortality-analysis
+## Currently
 
-An exploratory data analysis project using Python to investigate firefighter mortality patterns.
+I'm improving my technical skills through independent study and practical projects, while exploring opportunities across different areas of IT.
 
-Currently
+**Open to internship opportunities in technology.**
 
-I'm continuing my studies, improving existing projects, and learning new technologies.
+---
 
-I'm looking for my first internship opportunity in IT, where I can gain practical experience, contribute to a team, and continue developing my technical skills.
+## Contact
 
-Contact
-
-LinkedIn: https://www.linkedin.com/in/pedronunes-dev/
-
-GitHub: https://github.com/phnunes-dev
-- **LinkedIn:** [linkedin.com/in/pedronunes-dev](https://www.linkedin.com/in/pedronunes-dev/)
-- **GitHub:** [github.com/phnunes-dev](https://github.com/phnunes-dev)
+[LinkedIn](https://www.linkedin.com/in/pedronunes-dev/) | [GitHub](https://github.com/phnunes-dev)
