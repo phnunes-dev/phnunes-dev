@@ -3,7 +3,7 @@
 
 **Systems Analysis and Development Student | Technology & Software Development**
 
-I'm a Systems Analysis and Development student at Estácio University, based in Rio de Janeiro, Brazil.
+I'm a Systems Analysis and Development student.
 
 My background in military education helped me develop discipline, leadership, teamwork, and problem-solving skills. I'm now focused on building my career in technology through academic studies and personal projects.
 
